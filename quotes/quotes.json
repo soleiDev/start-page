@@ -1,0 +1,905 @@
+{
+    "quotes": [
+        {
+            "category": "Deep motivational quotes",
+            "author": "Albert Einstein",
+            "quote": "We cannot solve problems with the kind of thinking we employed when we came up with them."
+        },
+        {
+            "category": "Deep motivational quotes",
+            "author": "Mahatma Gandhi",
+            "quote": "Learn as if you will live forever, live like you will die tomorrow."
+        },
+        {
+            "category": "Deep motivational quotes",
+            "author": "Mark Twain",
+            "quote": "Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too."
+        },
+        {
+            "category": "Deep motivational quotes",
+            "author": "Eleanor Roosevelt",
+            "quote": "When you give joy to other people, you get more joy in return. You should give a good thought to the happiness that you can give out."
+        },
+        {
+            "category": "Deep motivational quotes",
+            "author": "Norman Vincent Peale",
+            "quote": "When you change your thoughts, remember to also change your world."
+        },
+        {
+            "category": "Deep motivational quotes",
+            "author": "Walter Anderson",
+            "quote": "It is only when we take chances that our lives improve. The initial and the most difficult risk we need to take is to become honest."
+        },
+        {
+            "category": "Deep motivational quotes",
+            "author": "Diane McLaren",
+            "quote": "Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Winston Churchill",
+            "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Herman Melville",
+            "quote": "It is better to fail in originality than to succeed in imitation."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Colin R. Davis",
+            "quote": "The road to success and the road to failure are almost exactly the same."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Henry David Thoreau",
+            "quote": "Success usually comes to those who are too busy to be looking for it."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Dale Carnegie",
+            "quote": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Calvin Coolidge",
+            "quote": "Nothing in the world can take the place of persistence... The slogan ‘Press On’ has solved and always will solve the problems of the human race."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Mister Rogers",
+            "quote": "There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "John Wooden",
+            "quote": "Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "Estée Lauder",
+            "quote": "I never dreamed about success. I worked for it."
+        },
+        {
+            "category": "Motivational quotes about success",
+            "author": "W. P. Kinsella",
+            "quote": "Success is getting what you want; happiness is wanting what you get."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Winston Churchill",
+            "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Will Rogers",
+            "quote": "Don’t let yesterday take up too much of today."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Unknown",
+            "quote": "You learn more from failure than from success. Don’t let it stop you. Failure builds character."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Steve Jobs",
+            "quote": "If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Vernon Sanders Law",
+            "quote": "Experience is a hard teacher because she gives the test first, the lesson afterward."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Dorothy West",
+            "quote": "To know how much there is to know is the beginning of learning to live."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Tony Robbins",
+            "quote": "Goal setting is the secret to a compelling future."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Jim Rohn",
+            "quote": "Either you run the day or the day runs you."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Thomas Jefferson",
+            "quote": "I’m a great believer in luck, and I find the harder I work, the more I have of it."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Paulo Coelho",
+            "quote": "When we strive to become better than we are, everything around us becomes better too."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Thomas Edison",
+            "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Tony Robbins",
+            "quote": "Setting goals is the first step in turning the invisible into the visible."
+        },
+        {
+            "category": "Motivational quotes for personal life",
+            "author": "Steve Jobs",
+            "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Cindy Gallop",
+            "quote": "Women challenge the status quo because we are never it."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Arlan Hamilton",
+            "quote": "We don’t just sit around and wait for other people. We just make, and we do."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Oprah Winfrey",
+            "quote": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Unknown",
+            "quote": "The strongest actions for a woman is to love herself, be herself and shine amongst those who never believed she could."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Yulia Tymoshenko",
+            "quote": "Whenever you see a successful woman, look out for three men who are going out of their way to try to block her."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Lady Gaga",
+            "quote": "Some women choose to follow men, and some choose to follow their dreams. If you’re wondering which way to go, remember that your career will never wake up and tell you that it doesn’t love you anymore."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Roseanne Barr",
+            "quote": "The thing women have yet to learn is nobody gives you power. You just take it."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Shirley Chisholm",
+            "quote": "If they don’t give you a seat at the table, bring a folding chair."
+        },
+        {
+            "category": "Motivational quotes for women",
+            "author": "Malala Yousafzai",
+            "quote": "I raise up my voice—not so that I can shout, but so that those without a voice can be heard. … We cannot all succeed when half of us are held back."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Confucius",
+            "quote": "He who conquers himself is the mightiest warrior."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Albert Einstein",
+            "quote": "Try not to become a man of success, but rather become a man of value."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Andrew Jackson",
+            "quote": "One man with courage makes a majority."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Benjamin Disraeli",
+            "quote": "One secret of success in life is for a man to be ready for his opportunity when it comes."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Confucius Kongzi",
+            "quote": "A man who has committed a mistake and doesn’t correct it is committing another mistake."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Dale Carnegie",
+            "quote": "The successful man will profit from his mistakes and try again in a different way."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "David Brinkley",
+            "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him."
+        },
+        {
+            "category": "Motivational quotes for men",
+            "author": "Epictetus",
+            "quote": "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."
+        },
+        {
+            "category": "Motivational quotes for students",
+            "author": "George Lorimer",
+            "quote": "You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction."
+        },
+        {
+            "category": "Motivational quotes for students",
+            "author": "Nelson Mandela",
+            "quote": "Education is the most powerful weapon which you can use to change the world."
+        },
+        {
+            "category": "Motivational quotes for students",
+            "author": "Amelia Earhart",
+            "quote": "The most difficult thing is the decision to act; the rest is merely tenacity."
+        },
+        {
+            "category": "Motivational quotes for students",
+            "author": "John Graham",
+            "quote": "You’ll find that education is just about the only thing lying around loose in this world, and it’s about the only thing a fellow can have as much of as he’s willing to haul away."
+        },
+        {
+            "category": "Motivational quotes for students",
+            "author": "Augustine Og Mandino",
+            "quote": "Take the attitude of a student, never be too big to ask questions, never know too much to learn something new."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Charlie Munger",
+            "quote": "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Tina Fey",
+            "quote": "You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Melissa McCarthy",
+            "quote": "When I believe in something, I’m like a dog with a bone."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Anaïs Nin",
+            "quote": "And the day came when the risk to remain tight in a bud was more painful than the risk it took to blossom."
+        },
+        {
+            "category": "Success quotes",
+            "author": "David Hurley",
+            "quote": "The standard you walk past is the standard you accept."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Gilbert K. Chesterton",
+            "quote": "I’ve searched all the parks in all the cities and found no statues of committees."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Winston Churchill",
+            "quote": "Success is stumbling from failure to failure with no loss of enthusiasm."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Theodore Roosevelt",
+            "quote": "Keep your eyes on the stars, and your feet on the ground."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Eleanor Roosevelt",
+            "quote": "Do not stop thinking of life as an adventure. You have no security unless you can live bravely, excitingly, imaginatively; unless you can choose a challenge instead of competence."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Vince Lombardi",
+            "quote": "Perfection is not attainable. But if we chase perfection we can catch excellence."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Walt Disney",
+            "quote": "Get a good idea and stay with it. Dog it, and work at it until it’s done right."
+        },
+        {
+            "category": "Success quotes",
+            "author": "Helen Keller",
+            "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Joe Girard",
+            "quote": "The elevator to success is out of order. You’ll have to use the stairs, one step at a time."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Dave Carolan",
+            "quote": "Be a positive energy trampoline—absorb what you need and rebound more back."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Zig Ziglar",
+            "quote": "People often say that motivation doesn’t last. Well, neither does bathing—that’s why we recommend it daily."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Unknown",
+            "quote": "Work until your bank account looks like a phone number."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Oscar Wilde",
+            "quote": "I am so clever that sometimes I don’t understand a single word of what I am saying."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Winnie the Pooh",
+            "quote": "People say nothing is impossible, but I do nothing every day."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Tom Lehrer",
+            "quote": "Life is like a sewer … what you get out of it depends on what you put into it."
+        },
+        {
+            "category": "Funny motivational quotes",
+            "author": "Lily Tomlin",
+            "quote": "I always wanted to be somebody, but now I realize I should have been more specific."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Michael Jordan",
+            "quote": "Talent wins games, but teamwork and intelligence win championships."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Vince Lombardi",
+            "quote": "Individual commitment to a group effort—that is what makes a team work, a company work, a society work, a civilization work."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Andrew Carnegie",
+            "quote": "Teamwork is the ability to work together toward a common vision. The ability to direct individual accomplishments toward organizational objectives. It is the fuel that allows common people to attain uncommon results."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Henry Ford",
+            "quote": "Coming together is a beginning. Keeping together is progress. Working together is success."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Helen Keller",
+            "quote": "Alone we can do so little, together we can do so much."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Patrick Lencioni",
+            "quote": "Remember, teamwork begins by building trust. And the only way to do that is to overcome our need for invulnerability."
+        },
+        {
+            "category": "Team motivational quotes",
+            "author": "Jean-Francois Cope",
+            "quote": "I invite everyone to choose forgiveness rather than division, teamwork over personal ambition."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Dalai Lama",
+            "quote": "Just one small positive thought in the morning can change your whole day."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Chris Grosser",
+            "quote": "Opportunities don’t happen, you create them."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Gary Vaynerchuk",
+            "quote": "Love your family, work super hard, live your passion."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "George Eliot",
+            "quote": "It is never too late to be what you might have been."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Les Brown",
+            "quote": "Don’t let someone else’s opinion of you become your reality."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Mark Cuban",
+            "quote": "If you’re not positive energy, you’re negative energy."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Stephen R. Covey",
+            "quote": "I am not a product of my circumstances. I am a product of my decisions."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "John Wooden",
+            "quote": "Do the best you can. No one can do more than that."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Walt Disney",
+            "quote": "If you can dream it, you can do it."
+        },
+        {
+            "category": "Short motivational quotes",
+            "author": "Theodore Roosevelt",
+            "quote": "Do what you can, with what you have, where you are."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "William James",
+            "quote": "The greatest discovery of my generation is that a human being can alter his life by altering his attitudes."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "Edmond Mbiaka",
+            "quote": "One of the differences between some successful and unsuccessful people is that one group is full of doers, while the other is full of wishers."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "Lucille Ball",
+            "quote": "I’d rather regret the things I’ve done than regret the things I haven’t done."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "Gordon B. Hinckley",
+            "quote": "You cannot plow a field by turning it over in your mind. To begin, begin."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "Marcus Aurelius",
+            "quote": "When you arise in the morning, think of what a privilege it is to be alive, to think, to enjoy, to love."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "David Dweck",
+            "quote": "Mondays offer new beginnings 52 times a year!"
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "Wayne Dyer",
+            "quote": "Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice."
+        },
+        {
+            "category": "Motivational Monday quotes",
+            "author": "Germany Kent",
+            "quote": "Your Monday morning thoughts set the tone for your whole week. See yourself getting stronger, and living a fulfilling, happier, and healthier life."
+        },
+        {
+            "category": "Friday motivational quotes",
+            "author": "Kate Summers",
+            "quote": "Friday sees more smiles than any other day of the workweek!"
+        },
+        {
+            "category": "Friday motivational quotes",
+            "author": "S. O’ Sade",
+            "quote": "Oh! It’s Friday again. Share the love that was missing during the week. In a worthy moment of peace and bliss."
+        },
+        {
+            "category": "Friday motivational quotes",
+            "author": "Nanea Hoffman",
+            "quote": "Every Friday, I like to high-five myself for getting through another week on little more than caffeine, willpower, and inappropriate humor."
+        },
+        {
+            "category": "Friday motivational quotes",
+            "author": "Byron Pulsifer",
+            "quote": "Make a Friday a day to celebrate work well done that you can be proud of, knowing that you just didn’t put in time to the next paycheck."
+        },
+        {
+            "category": "Friday motivational quotes",
+            "author": "Catherine Pulsifer",
+            "quote": "When you leave work on Friday, leave work. Don’t let technology follow you throughout your weekend (answering text messages and emails). Take a break. You will be more refreshed to begin the workweek if you have had a break."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "Zig Ziglar",
+            "quote": "You can get everything in life you want if you will just help enough other people get what they want."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "Pablo Picasso",
+            "quote": "Inspiration does exist, but it must find you working."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "Angela Bassett",
+            "quote": "Don’t settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "Isabel Allende",
+            "quote": "Show up, show up, show up, and after a while the muse shows up, too."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "David Ogilvy",
+            "quote": "Don’t bunt. Aim out of the ballpark. Aim for the company of immortals."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "Barbara Elaine Smith",
+            "quote": "I have stood on a mountain of no’s for one yes."
+        },
+        {
+            "category": "Best motivational quotes to start your day",
+            "author": "Tobias Lütke",
+            "quote": "If you believe something needs to exist, if it’s something you want to use yourself, don’t let anyone ever stop you from doing it."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Anne Lamott",
+            "quote": "Don’t look at your feet to see if you are doing it right. Just dance."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Warren Buffet",
+            "quote": "Someone’s sitting in the shade today because someone planted a tree a long time ago."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Mortimer J. Adler",
+            "quote": "True freedom is impossible without a mind made free by discipline."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "A. A. Milne",
+            "quote": "Rivers know this: there is no hurry. We shall get there someday."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Martha Graham",
+            "quote": "There is a vitality, a life force, an energy, a quickening that is translated through you into action, and because there is only one of you in all time, this expression is unique. And if you block it, it will never exist through any other medium and will be lost."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Jason Fried",
+            "quote": "Small is not just a stepping stone. Small is a great destination itself."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Benjamin Franklin",
+            "quote": "He that can have patience can have what he will."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Jessica Ennis",
+            "quote": "The only one who can tell you ‘you can’t win’ is you, and you don’t have to listen."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Bo Jackson",
+            "quote": "Set your goals high, and don’t stop till you get there."
+        },
+        {
+            "category": "Positive quotes for motivation",
+            "author": "Mia Hamm",
+            "quote": "Take your victories, whatever they may be, cherish them, use them, but don’t settle for them."
+        },
+        {
+            "category": "Daily motivational quotes",
+            "author": "Steve Jobs",
+            "quote": "Life can be much broader once you discover one simple fact: Everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it. … Once you learn that, you’ll never be the same again."
+        },
+        {
+            "category": "Daily motivational quotes",
+            "author": "Albert Einstein",
+            "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+        },
+        {
+            "category": "Daily motivational quotes",
+            "author": "Ralph Waldo Emerson",
+            "quote": "What you do speaks so loudly that I cannot hear what you say."
+        },
+        {
+            "category": "Daily motivational quotes",
+            "author": "Mark Twain",
+            "quote": "I have never let my schooling interfere with my education."
+        },
+        {
+            "category": "Daily motivational quotes",
+            "author": "Napoleon Hill",
+            "quote": "If you can’t yet do great things, do small things in a great way."
+        },
+        {
+            "category": "Daily motivational quotes",
+            "author": "Jim Rohn",
+            "quote": "If you really want to do something, you’ll find a way. If you don’t, you’ll find an excuse."
+        },
+        {
+            "category": "Inspirational quotes",
+            "author": "Jay-Z",
+            "quote": "I will not lose, for even in defeat, there’s a valuable lesson learned, so it evens up for me."
+        },
+        {
+            "category": "Inspirational quotes",
+            "author": "Carl Sagan",
+            "quote": "Somewhere, something incredible is waiting to be known."
+        },
+        {
+            "category": "Inspirational quotes",
+            "author": "Arthur C. Clarke",
+            "quote": "The only way of discovering the limits of the possible is to venture a little way past them into the impossible."
+        },
+        {
+            "category": "Positive quotes",
+            "author": "Henry Ford",
+            "quote": "Failure is simply the opportunity to begin again, this time more intelligently."
+        },
+        {
+            "category": "Positive quotes",
+            "author": "Confucius",
+            "quote": "Our greatest glory is not in never falling, but in rising every time we fall."
+        },
+        {
+            "category": "Encouraging quotes",
+            "author": "Wayne Dyer",
+            "quote": "You cannot always control what goes on outside. But you can always control what goes on inside."
+        },
+        {
+            "category": "Encouraging quotes",
+            "author": "Ross Simmonds",
+            "quote": "Hustle beats talent when talent doesn’t hustle."
+        },
+        {
+            "category": "Encouraging quotes",
+            "author": "Aristotle",
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "George Addair",
+            "quote": "Everything you’ve ever wanted is sitting on the other side of fear."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Ayn Rand",
+            "quote": "The question isn’t who is going to let me; it’s who is going to stop me."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Babe Ruth",
+            "quote": "Every strike brings me closer to the next home run."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Thomas Edison",
+            "quote": "I have not failed. I’ve just found 10,000 ways that won’t work."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Drew Houston",
+            "quote": "Don’t worry about failure; you only have to be right once."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Diane Von Furstenberg",
+            "quote": "You carry the passport to your own happiness."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Drake",
+            "quote": "Never let success get to your head, and never let failure get to your heart."
+        },
+        {
+            "category": "Motivation quotes",
+            "author": "Robin Sharma",
+            "quote": "Ideation without execution is delusion."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Laird Hamilton",
+            "quote": "Make sure your worst enemy doesn’t live between your own two ears."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Lucius Annaeus Seneca",
+            "quote": "It is a rough road that leads to the heights of greatness."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Vincent Van Gogh",
+            "quote": "For the great doesn’t happen through impulse alone, and is a succession of little things that are brought together."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Maria Edgeworth",
+            "quote": "If we take care of the moments, the years will take care of themselves."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Unknown",
+            "quote": "Resilience is when you address uncertainty with flexibility."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Raymond Joseph Teller",
+            "quote": "Sometimes magic is just someone spending more time on something than anyone else might reasonably expect."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Paul Bryant",
+            "quote": "It’s not the will to win that matters—everyone has that. It’s the will to prepare to win that matters."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Henry David Thoreau",
+            "quote": "As a single footstep will not make a path on the earth, so a single thought will not make a pathway in the mind. To make a deep physical path, we walk again and again. To make a deep mental path, we must think over and over the kind of thoughts we wish to dominate our lives."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Earl Nightingale",
+            "quote": "Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."
+        },
+        {
+            "category": "Quotes about life",
+            "author": "Unknown",
+            "quote": "True humility is not thinking less of yourself; it is thinking of yourself less."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Mark Twain",
+            "quote": "The two most important days in your life are the day you’re born and the day you find out why."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Pema Chodron",
+            "quote": "Nothing ever goes away until it teaches us what we need to know."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Bruce Lee",
+            "quote": "We can see through others only when we can see through ourselves."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Octavia Butler",
+            "quote": "First, forget inspiration. Habit is more dependable. Habit will sustain you whether you’re inspired or not. Habit will help you finish and polish your stories. Inspiration won’t. Habit is persistence in practice."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Robert Frost",
+            "quote": "The best way out is always through."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Jesse Owens",
+            "quote": "The battles that count aren’t the ones for gold medals. The struggles within yourself—the invisible, inevitable battles inside all of us—that’s where it’s at."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Frederick Douglass",
+            "quote": "If there is no struggle, there is no progress."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Bill Walsh",
+            "quote": "Someone will declare, ‘I am the leader!’ and expect everyone to get in line and follow him or her to the gates of heaven or hell. My experience is that it doesn’t happen that way. Others follow you based on the quality of your actions rather than the magnitude of your declarations."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Ruth Gordo",
+            "quote": "Courage is like a muscle. We strengthen it by use."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Paul Graham",
+            "quote": "Relentlessly prune bullshit, don’t wait to do things that matter, and savor the time you have. That’s what you do when life is short."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Marcus Tullius Cicero",
+            "quote": "More is lost by indecision than wrong decision."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Thomas Aquinas",
+            "quote": "If the highest aim of a captain were to preserve his ship, he would keep it in port forever."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Dita Von Teese",
+            "quote": "You can be the ripest, juiciest peach in the world, and there’s still going to be somebody who hates peaches."
+        },
+        {
+            "category": "More motivating quotes",
+            "author": "Cormac McCarthy",
+            "quote": "Keep a little fire burning; however small, however hidden."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Dr. Seuss",
+            "quote": "You’ll never get bored when you try something new. There’s really no limit to what you can do."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Don Cheadle",
+            "quote": "I think it’s intoxicating when somebody is so unapologetically who they are."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Leymah Gbowee",
+            "quote": "You can never leave footprints that last if you are always walking on tiptoe."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Dolly Parton",
+            "quote": "If you don’t like the road you’re walking, start paving another one."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Childish Gambino",
+            "quote": "If it makes you nervous, you’re doing it right."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Jane Goodall",
+            "quote": "What you do makes a difference, and you have to decide what kind of difference you want to make."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Louise Hay",
+            "quote": "I choose to make the rest of my life the best of my life."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Coco Chanel",
+            "quote": "In order to be irreplaceable one must always be different."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Kurt Vonnegut",
+            "quote": "Anything can make me stop and look and wonder, and sometimes learn."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Constance Wu",
+            "quote": "People’s passion and desire for authenticity is strong."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Sonia Sotomayor",
+            "quote": "A surplus of effort could overcome a deficit of confidence."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Jennifer Lopez",
+            "quote": "Doubt is a killer. You just have to know who you are and what you stand for."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Billie Jean King",
+            "quote": "No one changes the world who isn’t obsessed."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Mia Hamm",
+            "quote": "I learned a long time ago that there is something worse than missing the goal, and that’s not pulling the trigger."
+        },
+        {
+            "category": "Inspirational new year quotes",
+            "author": "Michael Jordan",
+            "quote": "Some people want it to happen, some wish it would happen, others make it happen."
+        }
+    ]
+}
+
