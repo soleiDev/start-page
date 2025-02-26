@@ -40,40 +40,38 @@ function setTime() {
 setTime()
 setInterval(setTime, 1000)
 
-// Determine the time of day
-const now = new Date()
-let timeUntilNextfetch
-let nextFetchTime
+
+// Determine the date
+const date = new Date()
+let nextFetchDate
+
 // Load images from local storage when the page loads
 document.addEventListener('DOMContentLoaded', () => {
     loadImages()
     
-    const currentTime = now.getTime()
-    nextFetchTime = localStorage.getItem('nextFetchTime')
+    const today = date.getDate()
+    console.log("Today: ", today)
+
+    nextFetchDate = localStorage.getItem('nextFetchDate')
     
-    if (!nextFetchTime || currentTime >= nextFetchTime) {
-        const next4AM = new Date(now)
-        next4AM.setHours(4, 0, 0, 0)
+    if (!nextFetchDate || today === nextFetchDate || today > nextFetchDate) {
+        const nextDay = new Date(date)
+        nextDay.setDate(today+1)
 
-        if(currentTime >= next4AM.getTime()) {
-            next4AM.setDate(next4AM.getDate() + 1)
-        } 
+        nextFetchDate = nextDay.getDate()
+        console.log("Next Fetch Date: ", nextFetchDate)
+        localStorage.setItem('nextFetchDate', nextFetchDate)
 
-        nextFetchTime = next4AM.getTime()
-        localStorage.setItem('nextFetchTime', nextFetchTime)
-    } else renderBackgroundImage()
-
-    timeUntilNextfetch = nextFetchTime - currentTime
-    console.log("Time until next fetch: ", timeUntilNextfetch)
+        getBackgroundImage()
+    } else if(today < nextFetchDate){
+        console.log("Next Fetch Date: ", nextFetchDate)
+        renderBackgroundImage()
+    }
 })
-setTimeout(() => {
-    getBackgroundImage()
-    localStorage.setItem('nextFetchTime', nextFetchTime + 24 * 60 * 60 * 1000) // Set next fetch time to 24 hours later
-}, timeUntilNextfetch)
 
 // Unsplash API calls
 function getBackgroundImage() {
-    fetch(`https://api.unsplash.com/photos/random?orientation=landscape&query=animals,mountains,ocean,oman,lakes,forest&client_id=${myAccessKey}`)
+    fetch(`https://api.unsplash.com/photos/random?orientation=landscape&query=animals,mountains,ocean,oman,lakes&client_id=${myAccessKey}`)
     .then(res => {
         if (!res.ok) throw Error("API call limit reached")
         return res.json()
