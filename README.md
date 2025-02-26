@@ -13,7 +13,7 @@ This project is a personal start page/dashboard designed to inspire and motivate
 
 ## Usage
 
-- Open your browser and navigate to `http://localhost:3000` to view your personal dashboard.
+- Open your Chrome browser and navigate to a new tab to view your personal dashboard.
 
 ## Contributing
 
