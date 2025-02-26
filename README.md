@@ -1,4 +1,4 @@
-# Personal Dashboard
+# Personal Start Page
 
 This project is a personal start page/dashboard designed to inspire and motivate you. The dashboard features a minimal layout displaying a full-screen nature photo, clock, motivational quotes, some fun advice, and the day's weather.
 
