@@ -43,28 +43,23 @@ setInterval(setTime, 1000)
 
 // Determine the date
 const date = new Date()
-let nextFetchDate
 
 // Load images from local storage when the page loads
 document.addEventListener('DOMContentLoaded', () => {
     loadImages()
     
     const today = date.getDate()
-    console.log("Today: ", today)
-
-    nextFetchDate = localStorage.getItem('nextFetchDate')
+    let nextFetchDate = Number(localStorage.getItem('nextFetchDate'))
     
     if (!nextFetchDate || today === nextFetchDate || today > nextFetchDate) {
         const nextDay = new Date(date)
         nextDay.setDate(today+1)
 
         nextFetchDate = nextDay.getDate()
-        console.log("Next Fetch Date: ", nextFetchDate)
         localStorage.setItem('nextFetchDate', nextFetchDate)
 
         getBackgroundImage()
     } else if(today < nextFetchDate){
-        console.log("Next Fetch Date: ", nextFetchDate)
         renderBackgroundImage()
     }
 })
